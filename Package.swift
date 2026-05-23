@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationGoogleAdManager",
-            url: "https://github.com/unigeniee/geniee-ios-mediation-googleadmanager/releases/download/8.3.1/GenieeMediationGoogleAdManager.8.3.1.zip",
-            checksum: "05aec28d547c675021a150837094ac18de846ce15897d63ad498572c14524929"
+            url: "https://github.com/unigeniee/geniee-ios-mediation-googleadmanager/releases/download/8.3.100/GenieeMediationGoogleAdManager.8.3.1.0.zip",
+            checksum: "caac7092c9938ecec97554e43a2af5bd06d1955947f5aa1fd8f95f6f31137ee9"
         )
     ]
 )
